@@ -1,2 +1,4 @@
 # Personal-Portfolio
-Personal Portfolio created for FreeCodeCamp's final project in the RWD Certificate.
+FreeCodeCamp: Responsive Web Design Projects - Personal Portfolio Webpage
+<p>This is the fifth and final project of the Responsive Web Design Certification in Free Code Camp. The objective of this challenge was to build a personal portfolio webpage that meets the 11 user stories specified by Free Code Camp. I went above and beyond on this project and tinkered a lot with the CSS to make it attractive and fit the theme of my username, as well as to make it look good in both mobile and desktop versions.</p>
+<p>More information on the project and its requirements can be found <a href="https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-personal-portfolio-webpage-project/build-a-personal-portfolio-webpage">here</a>. I have also posted my portfolio on Codepen, which you can see <a href="https://codepen.io/TurtleQueenCoding/pen/zYRdjXw">here</a>.
